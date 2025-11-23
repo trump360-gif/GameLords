@@ -245,7 +245,7 @@
 - Next.js 15 (App Router)
 - React 19
 - TypeScript 5.4
-- Tailwind CSS 4.0
+- Tailwind CSS 3.4
 - Zustand 4.x
 - TanStack Query v5
 - Phaser 3.80
@@ -254,7 +254,7 @@
 ### 1.2 Backend
 - Node.js 20 LTS
 - tRPC 11.x
-- Prisma 6.x
+- Drizzle ORM
 - PostgreSQL 16
 - Redis 7.x (Upstash)
 - Socket.io 4.x
